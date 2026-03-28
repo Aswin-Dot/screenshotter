@@ -1,5 +1,7 @@
 # screenshotter
 
+![screenshotter banner](./banner.png)
+
 **Upload your app screens, get App Store and Play Store ready marketing screenshots in minutes. No Figma. No designer needed.**
 
 ---
