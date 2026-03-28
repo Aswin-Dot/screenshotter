@@ -2,8 +2,6 @@
 
 **Upload your app screens, get App Store and Play Store ready marketing screenshots in minutes. No Figma. No designer needed.**
 
-![screenshotter preview](https://via.placeholder.com/1200x630/5b4fe8/ffffff?text=screenshotter+%E2%80%94+App+Store+Screenshots+in+Minutes)
-
 ---
 
 ## Origin Story
@@ -99,7 +97,7 @@ No backend. Everything runs in your browser. Your API key is stored in localStor
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/screenshotter.git
+git clone https://github.com/Aswin-Dot/screenshotter.git
 cd screenshotter
 
 # Install dependencies
@@ -183,7 +181,7 @@ Frames are rendered geometrically — clean, modern, and fast to render.
 
 ## Live Demo
 
-🚀 **[screenshotter.vercel.app](https://screenshotter.vercel.app)**
+**[aswin-dot.github.io/screenshotter](https://aswin-dot.github.io/screenshotter)**
 
 ---
 
@@ -195,8 +193,8 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 
 ## License
 
-MIT © 2024
+MIT
 
 ---
 
-Built with ☕ by developers, for developers.
+*Built by [Aswin Raj](https://github.com/Aswin-Dot)*

@@ -1,8 +1,16 @@
 {
   "name": "screenshotter",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.1.0",
+  "description": "Upload your app screens, get App Store and Play Store ready screenshots in minutes",
   "type": "module",
+  "homepage": "https://aswin-dot.github.io/screenshotter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aswin-Dot/screenshotter.git"
+  },
+  "author": "Aswin Raj",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
